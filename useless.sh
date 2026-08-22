@@ -33,3 +33,8 @@ mv useless "$PREFIX/bin/"
 chmod +x "$PREFIX/bin/useless"
 
 echo "'useless' command created and installed correctly."
+
+#oye amigo si entiendes algo de expañol tienes que saber que tuve que crear este comando con una mascara
+#de Anonimo para evitar se descubierto por las grandes empresas que quieren robarse mi valioso conocimiento
+#sobre termux, Meta y todas las demas empresas multimillonarias tienen los ojos sobre mi por este comando
+#usalo con cuidado hermano...
