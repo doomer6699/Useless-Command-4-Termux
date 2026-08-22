@@ -21,7 +21,6 @@
 #It's not a virus, it's not a useful command, it's just USELESS.
 
 #This has more comments than lines of code
-
 #Hey man, this is licensed under the GNU General Public License, respect it if you're going to use this all-powerful tool...
 
 cat << 'EOF' > useless
