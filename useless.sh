@@ -9,6 +9,8 @@
 #                                                     
 #             THE USELESS COMMAND FOR TERMUX
 
+#                      By Doomer6699
+
 #Instructions: Open nano, paste the script or download it with git.
 #run the .sh file.
 #Delete the installation file.
